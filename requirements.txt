@@ -1,0 +1,21 @@
+# LangChain principal
+langchain
+langchain-community
+
+#OpenAI
+langchain-openai 
+openai
+
+
+# FAISS
+faiss-cpu
+
+# PDF
+PyPDF2
+pypdf
+
+# Opcional
+jupyter
+
+#Gradio
+gradio
