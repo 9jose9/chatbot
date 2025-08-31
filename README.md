@@ -66,8 +66,7 @@ chatbot-rag/
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd chatbot-rag
+git clone https://github.com/9jose9/prueba-turing.git
 ```
 
 2. Crear un entorno virtual:
