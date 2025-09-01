@@ -43,7 +43,7 @@ chatbot-rag/
 ## ⚡ Características
 
 1. **RAG (Retrieval-Augmented Generation)**:
-   Recupera información relevante de documentos cargados y la combina con la memoria del usuario para generar respuestas más precisas. Tal y como está implementado el RAG, es posible preguntar sobre imágenes y figuras de los documentos, así como sobre ciertos datos estructurados que aparezcan en ellos. 
+   Recupera información relevante de documentos cargados y la combina con la memoria del usuario para generar respuestas más precisas. Tal y como está implementado el RAG, es posible realizar consultas sobre imágenes y figuras de los documentos, así como sobre ciertos datos estructurados que aparezcan en ellos. 
 
 2. **Memoria dinámica con resumen automático**:
    Cuando la memoria supera un límite de tokens, se genera automáticamente un **resumen**, que luego se integra en la memoria para mantener la coherencia de la conversación.
